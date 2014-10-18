@@ -1,4 +1,4 @@
 Pink
 ====
 
-website for ladies' handbags
+This is a website of theme ladies' handbags built for school project.
